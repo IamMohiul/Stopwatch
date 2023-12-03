@@ -21,7 +21,7 @@ The Stopwatch Timer Application is a web-based timer that allows users to measur
 ## Usage
 1. Clone the repository:
 
-   `git clone https://github.com/your-username/stopwatch-timer.git`
+   `git clone https://github.com/IamMohiul/Stopwatch.git`
 
 2. Open `index.html` in your web browser.
 
